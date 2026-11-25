@@ -1,6 +1,6 @@
 # @phillipsharring/graspr-build
 
-![Graspr](graspr.png)
+![Handlr](handlr.png)
 
 Build mechanics for [Graspr](https://github.com/phillipsharring/graspr-framework) sites: HTML compiler, static page baker, and Vite dev plugin.
 
